@@ -1,5 +1,5 @@
 # Ski Size and Auth with Firebase 
-> A Ski Size Calculator used to find right Size of Skies
+> A Ski Size Calculator to find right Size of Skies
 
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]

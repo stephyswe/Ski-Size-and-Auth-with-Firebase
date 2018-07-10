@@ -5,7 +5,7 @@
 [![Build Status][travis-image]][travis-url]
 [![Downloads Stats][npm-downloads]][npm-url]
 
-![](header.gif)
+![](header.png)
 
 ## Installation
 
